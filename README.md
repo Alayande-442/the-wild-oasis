@@ -11,6 +11,6 @@ Currently, two official plugins are available:
 COMMENT
 Project Name: The Wild Oasis Project
 Introduction:https://the-wild-oasis-cabin-app.netlify.app/login
-the wild oasis is a cabin listing application that enables clients to book room and make payment outside the application.
-it's a dashboard built specifically for the hotel service attendant.
+the wild oasis is an Hotel listing application built for the employees to book cabins for the client.
+The Users can add cabins, edit cabins, delete cabins.
  -->
